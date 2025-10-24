@@ -30,23 +30,23 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="22"
-          y="53"
-          width="87"
+          x="121"
+          y="132"
+          width="93"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-d48cf626f2704c03af3bb54dc44ff863"
         fillColor="#ffff95"
-        content="Fornecedores de serviço"
+        content="Fornecedores de soluções de TI"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="120"
-          y="53"
-          width="89"
-          height="63"/>
+          x="12"
+          y="348"
+          width="97"
+          height="73"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -56,22 +56,139 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="22"
-          y="132"
-          width="75"
+          x="12"
+          y="53"
+          width="97"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-b2e8fd230b0249b7aab8edf0b1236212"
         fillColor="#ffff95"
-        content="Software de investimentos (SaaS)"
+        content="Bolsas internacionais"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="108"
-          y="132"
+          x="120"
+          y="53"
           width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-996d2b9e58cc4c7598d6905234cfbeab"
+        fillColor="#ffff95"
+        content="Corretoras internacionais"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c2706c851f314129a97f57746a2c1ab6"
+        fillColor="#ffff95"
+        content="Exchanges de criptomoedas"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="204"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-fd36d4cf85ed4f4a8031ca55e7050ef2"
+        fillColor="#ffff95"
+        content="Provedores de custódia digital"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="204"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f89bfca4fdb648e4b8e4f0a7df92107a"
+        fillColor="#ffff95"
+        content="Entidades regulatórias"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="276"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-ece682219227485297167629485d0d65"
+        fillColor="#ffff95"
+        content="Provedores de cloud"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="276"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-83e9af7437804299a73ec6b2b830a551"
+        fillColor="#ffff95"
+        content="Provedores de dados e bureaus de crédito"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="121"
+          y="348"
+          width="93"
+          height="73"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-518fe25c9488422b831946473ba649fe"
+        fillColor="#ffff95"
+        content="BACEN"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="432"
+          width="97"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-7023ecfd17a945fb8762a8c399d2a6a7"
+        fillColor="#ffff95"
+        content="CVM"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="432"
+          width="94"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-721813848f444804b0e0a3a0cb7db5fd"
+        fillColor="#ffff95"
+        content="Associações do setor financeiro"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="492"
+          width="97"
           height="63"/>
     </children>
   </children>
@@ -95,66 +212,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-4809bb70de5e4b09b6b52553658bed7e"
         fillColor="#ffff95"
-        content="Gerenciar Plataforma Digital"
+        content="Manter e Aprimorar a Plataforma Digital&#xD;&#xA;Implementar e Manter a Segurança, Governança e Conformidade&#xD;&#xA;Integrar Fontes Externas para Análise de Risco&#xD;&#xA;Aplicar Inteligência Artificial e Analytics para Personalização da Experiência&#xD;&#xA;Gerir o Relacionamento com Clientes via CRM Unificado&#xD;&#xA;Monitorar e Otimizar a Jornada Digital"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="10"
-          y="36"
-          width="159"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-0b1f3da25bf14ae7a90e4295ea78d852"
-        fillColor="#ffff95"
-        content="Gestão de Dados e Inteligência de Negócio"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="10"
-          y="149"
-          width="159"
-          height="44"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-dca96629784a4c4d99c9c27d336925db"
-        fillColor="#ffff95"
-        content="Governança, Risco e Conformidade"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="10"
-          y="98"
-          width="159"
-          height="52"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-16924efe16f2453cb3a47c5539cdc9d0"
-        fillColor="#ffff95"
-        content="Gestão e Expansão do Portfólio de Produtos de Investimento"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="10"
-          y="192"
-          width="159"
-          height="55"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-74a4ecdf252d46f9a63062ff5247aa6e"
-        fillColor="#ffff95"
-        content="Onboarding e Suporte Digital ao Cliente"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="80"
-          y="246"
-          width="75"
-          height="63"/>
+          x="12"
+          y="48"
+          width="205"
+          height="229"/>
     </children>
   </children>
   <children
@@ -177,14 +242,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-196db761020a4663be3e5dbfdfab06bd"
         fillColor="#ffff95"
-        content="Pessoas: Assessor de investimentos, Desenvolvedor, Atendentes&#xD;&#xA;&#xD;&#xA;Sistemas: Fiap-tec&#xD;&#xA;&#xD;&#xA;Coisas: Servidores"
+        content="Pessoas: equipe de tecnologia, time de segurança da informação e compliance, equipe de ciência de dados, time de CX&#xD;&#xA;&#xD;&#xA;Sistemas: FiapTec modernizado, plataforma digital, infraestrutura de dados e analytics, soluções de segurança e governança, CRM, bureaus de crédito&#xD;&#xA;&#xD;&#xA;Coisas: Base Única de Clientes, Cloud, Políticas e frameworks de governança"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="41"
-          y="64"
-          width="152"
-          height="153"/>
+          x="12"
+          y="48"
+          width="205"
+          height="229"/>
     </children>
   </children>
   <children
@@ -207,14 +272,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-f6fa9b6504e543508630424c96af83bb"
         fillColor="#ffff95"
-        content="Oferecemos uma plataforma digital segura, que integra operações globais em ETFs, ações e criptoativos. Combinamos tradição e tecnologia de ponta, proporcionando autonomia, escalabilidade e conformidade internacional, tudo com máxima agilidade e transparência para o cliente.&#xD;&#xA;"
+        content="Oferecer uma plataforma digital segura, rápida e inteligente, que entende o perfil de cada cliente, preza pela proteção de dados e entrega recomendações personalizadas para a maximização de resultados"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="24"
           y="60"
           width="181"
-          height="217"/>
+          height="157"/>
     </children>
   </children>
   <children
@@ -237,40 +302,53 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-c436bbbd91db4648a037d8e36ae8faf4"
         fillColor="#ffff95"
-        content="Assessoria de investimentos"
+        content="Atendimento personalizado"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="88"
+          x="48"
           y="48"
-          width="82"
-          height="63"/>
+          width="128"
+          height="49"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-b5ac2989014c4f028adeb584ea65e84f"
         fillColor="#ffff95"
-        content="Self service de investimentos"
+        content="Consultoria financeira"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="82"
-          y="120"
-          width="94"
-          height="63"/>
+          x="48"
+          y="108"
+          width="128"
+          height="37"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-677e691ab72f404abf8272a21c0680e8"
         fillColor="#ffff95"
-        content="Atendimento"
+        content="Autoatendimento digital com suporte assistido"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="86"
-          y="192"
-          width="85"
-          height="63"/>
+          x="48"
+          y="156"
+          width="128"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c61f981320bb40439d38556cdd327ec3"
+        fillColor="#ffff95"
+        content="Comunidades e engajamento digital"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="48"
+          y="228"
+          width="128"
+          height="49"/>
     </children>
   </children>
   <children
@@ -297,10 +375,10 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="72"
+          x="48"
           y="48"
-          width="75"
-          height="63"/>
+          width="121"
+          height="49"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -310,10 +388,10 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="72"
-          y="120"
-          width="75"
-          height="63"/>
+          x="48"
+          y="108"
+          width="121"
+          height="49"/>
     </children>
   </children>
   <children
@@ -340,10 +418,10 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="78"
-          y="68"
-          width="75"
-          height="77"/>
+          x="36"
+          y="60"
+          width="145"
+          height="61"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -353,9 +431,9 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="78"
-          y="156"
-          width="75"
+          x="36"
+          y="132"
+          width="145"
           height="63"/>
     </children>
     <children
@@ -366,10 +444,36 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="78"
-          y="228"
-          width="75"
+          x="36"
+          y="204"
+          width="145"
           height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f2a4eda6a53e4f1fa9af665970b220ba"
+        fillColor="#ffff95"
+        content="Novos investidores jovens (público emergente)"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="360"
+          width="145"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-3997c8d3fabf4fb3bf2f9f42820891a5"
+        fillColor="#ffff95"
+        content="Empreendedores e pequenas/médias empresas"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="276"
+          width="145"
+          height="73"/>
     </children>
   </children>
   <children
@@ -388,6 +492,19 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-a7858d01f3ff4ab6bfc0e80f1393eff3"
+        fillColor="#ffff95"
+        content="Pessoas: equipe de tecnologia, time de segurança da informação e compliance, equipe de ciência de dados, time de CX&#xD;&#xA;&#xD;&#xA;Sistemas: FiapTec modernizado, plataforma digital, infraestrutura de dados e analytics, soluções de segurança e governança, CRM, bureaus de crédito&#xD;&#xA;&#xD;&#xA;Coisas: Base Única de Clientes, Cloud, Políticas e frameworks de governança"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="505"
+          height="121"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -410,24 +527,24 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-4d3a90c8eec14e0288197280d9c8b7ae"
         fillColor="#ffff95"
-        content="Intermediação de investimentos"
+        content="Taxas de corretagem"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="36"
-          width="96"
+          width="85"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-cb4a70089c004f26b5a92db5d323f1e8"
         fillColor="#ffff95"
-        content="Assessoria de investimentos"
+        content="Taxas de custódia"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="120"
+          x="108"
           y="36"
           width="86"
           height="63"/>
@@ -436,39 +553,39 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-f79cabd8fa27421abae3f8f8a704bbfc"
         fillColor="#ffff95"
-        content="Gestão de garantias"
+        content="Comissões sobre produtos de terceiros"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="216"
+          x="204"
           y="36"
-          width="75"
+          width="97"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-2d1776e627734cdab70c1fd88a7acb1b"
         fillColor="#ffff95"
-        content="Gestão de saldo remanescente"
+        content="Taxas de administração"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="300"
+          x="312"
           y="36"
-          width="95"
+          width="85"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-5d816733f5d845ee8a6480fbbb82d764"
         fillColor="#ffff95"
-        content="Taxa de serviço"
+        content="Consultoria financeira premium"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="408"
           y="36"
-          width="75"
+          width="85"
           height="63"/>
     </children>
   </children>
