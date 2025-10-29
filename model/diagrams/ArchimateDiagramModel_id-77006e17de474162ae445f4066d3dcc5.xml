@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability"
+    id="id-77006e17de474162ae445f4066d3dcc5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-93c4aaaa0abe41f093fd2b34bb2d00ec">
+    <bounds
+        x="101"
+        y="196"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-af006af49cfa4c6ea6253b9ff11f1535.xml#id-af006af49cfa4c6ea6253b9ff11f1535"/>
+  </children>
+</archimate:ArchimateDiagramModel>
